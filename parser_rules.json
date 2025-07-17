@@ -1,0 +1,8 @@
+{
+  "example.com": {
+    "css_selector": "div.content-body p"
+  },
+  "another.org/docs": {
+    "xpath": "//article//text()"
+  }
+}
